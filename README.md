@@ -1,4 +1,4 @@
-## Class Diagram
+## 1. Class Diagram
 
 ```mermaid
 classDiagram
@@ -23,7 +23,7 @@ classDiagram
     Person <|-- Teacher
 ```
 
-## Activity Diagram
+## 2. Activity Diagram
 
 ```mermaid
 graph TD
@@ -34,7 +34,7 @@ graph TD
     D --> E
 ```
 
-## Sequence Diagram
+## 3. Sequence Diagram
 
 ```mermaid
 sequenceDiagram
